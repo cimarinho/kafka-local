@@ -1,5 +1,0 @@
-/home/marcelo/projetos/kafka/kafka-local/producer/src/main/java/br/com/marinho/producer/serializer/KafkaJsonSerializer.java
-/home/marcelo/projetos/kafka/kafka-local/producer/src/main/java/br/com/marinho/producer/ProducerAppConfig.java
-/home/marcelo/projetos/kafka/kafka-local/producer/src/main/java/br/com/marinho/producer/model/Message.java
-/home/marcelo/projetos/kafka/kafka-local/producer/src/main/java/br/com/marinho/producer/controller/MessageController.java
-/home/marcelo/projetos/kafka/kafka-local/producer/src/main/java/br/com/marinho/producer/MessageProducer.java
