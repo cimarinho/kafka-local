@@ -1,2 +1,4 @@
 # kafka-local
-Projeto estudo kafka
+
+Rodar =  docker-compose up
+
