@@ -1,0 +1,2 @@
+TESTE LEITURA 9999
+git@github.com:cimarinho/kafka-mysql.git

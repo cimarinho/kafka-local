@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/arquivo/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-cassandra/pom.xml" />
       </list>
     </option>
   </component>
